@@ -11,6 +11,7 @@ body {
 }
 
 header {
+    padding: 10px;
     background-color: grey;
 }
 
@@ -25,6 +26,8 @@ span#burguer {
     display: block;
     padding: 10px;
     text-align: center;
+    box-shadow: 1px 1px rgba(0, 0, 0, 0.541);
+    border-radius: 10px;
 }
 
 span#burguer:hover {
